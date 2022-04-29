@@ -1,0 +1,17 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Data files
+*.csv
+*.png
+*.pdf
+*.json
+data/*/
+
+# Environment file containing Twitter API access tokens
+.env
+
+# Log files
+*.log
