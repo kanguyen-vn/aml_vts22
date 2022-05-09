@@ -7,3 +7,5 @@ This repository contains the code for our CS 5824 (Advanced Machine Learning) fi
 Semester: Spring 2022
 
 Instructor: Dr. Dawei Zhou
+
+Instructions as to how to execute our code are included in [main.ipynb](main.ipynb).
